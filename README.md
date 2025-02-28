@@ -1,24 +1,5 @@
 # Smart Document Management System and Search Engine
 
-## 📖 Index
-1. [Overview](#overview)
-2. [Features](#features)
-3. [Installation & Setup](#installation--setup)
-    - [Clone the Repository](#1-clone-the-repository)
-    - [Set Up Virtual Environment](#2-set-up-virtual-environment-optional-but-recommended)
-    - [Install Dependencies](#3-install-dependencies)
-    - [Set Up Environment Variables](#4-set-up-environment-variables)
-    - [Creating Accounts & API Keys](#creating-accounts--api-keys)
-    - [Run the Application](#5-run-the-application)
-4. [Usage](#usage)
-    - [Dashboard](#-dashboard)
-    - [Upload Documents](#-upload-documents)
-    - [Search & Query](#-search--query)
-    - [Q&A Assistant](#-qa-assistant)
-5. [Troubleshooting](#troubleshooting)
-6. [Contributing](#contributing)
-7. [License](#license)
-
 ## Overview
 This is a **Streamlit-based** Smart Document Management System that allows users to upload, search, and query PDF documents using **LangChain, Pinecone, and Ollama LLM**. The system enables similarity-based document retrieval and Q&A functionalities.
 
@@ -27,6 +8,23 @@ This is a **Streamlit-based** Smart Document Management System that allows users
 - **Search and retrieve documents using Pinecone** 🔍
 - **AI-powered Q&A Assistant** ❓
 - **Interactive dashboard with analytics** 📊
+  
+## 📖 Index
+1. [Installation & Setup](#installation--setup)
+    - [Clone the Repository](#1-clone-the-repository)
+    - [Set Up Virtual Environment](#2-set-up-virtual-environment-optional-but-recommended)
+    - [Install Dependencies](#3-install-dependencies)
+    - [Set Up Environment Variables](#4-set-up-environment-variables)
+    - [Creating Accounts & API Keys](#creating-accounts--api-keys)
+    - [Run the Application](#5-run-the-application)
+2. [Usage](#usage)
+    - [Dashboard](#-dashboard)
+    - [Upload Documents](#-upload-documents)
+    - [Search & Query](#-search--query)
+    - [Q&A Assistant](#-qa-assistant)
+3. [Troubleshooting](#troubleshooting)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Installation & Setup
 
