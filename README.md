@@ -23,8 +23,9 @@ This is a **Streamlit-based** Smart Document Management System that allows users
     - [Search & Query](#-search--query)
     - [Q&A Assistant](#-qa-assistant)
 3. [Troubleshooting](#troubleshooting)
-4. [Contributing](#contributing)
-5. [License](#license)
+4. [License](#license)
+5. [Contact](#contact)
+
 
 ## Installation & Setup
 
@@ -97,9 +98,14 @@ streamlit run smart_pdf_search.py
 - **API key errors**: Ensure `.env` is correctly configured.
 - **File not found errors**: Verify the upload path and document directory.
 
-## Contributing
-Feel free to open an issue or submit a pull request if you find any bugs or want to improve this project.
-
 ## License
-This project is open-source and available under the **GPL-3.0 License**.
+
+This project is licensed under the **GPL-3.0** License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have questions, suggestions, or issues, please:
+
+- Open an issue on GitHub  
+- Feel free to contact me at [hariprasath.m2017@gmail.com](mailto:hariprasath.m2017@gmail.com)
 
